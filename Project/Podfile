@@ -1,0 +1,7 @@
+pod "BORSwipableCell", :path => "../BORSwipableCell.podspec"
+
+target "Demo" do
+end
+
+target "DemoTests" do
+end
