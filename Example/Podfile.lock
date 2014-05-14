@@ -1,0 +1,14 @@
+PODS:
+  - BORSwipableCell (0.1.0)
+
+DEPENDENCIES:
+  - BORSwipableCell (from `../BORSwipableCell.podspec`)
+
+EXTERNAL SOURCES:
+  BORSwipableCell:
+    :path: ../BORSwipableCell.podspec
+
+SPEC CHECKSUMS:
+  BORSwipableCell: 64f14eeedfad2fcdde4ea34ee8d9da0773c3bb51
+
+COCOAPODS: 0.32.1
